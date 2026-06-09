@@ -55,14 +55,14 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Status API | GET Ping, GET Get current server time |
-| Client API | GET Get API keys, POST Create new API key, GET Get users list, POST Logs user into the system |
-| Autofollow API | GET Get autofollow strategies list |
-| Task Manager API | GET Get tasks list |
-| Builder API | GET Get strategy builder rules list |
-| News API | GET Get news list |
-| Market Data API | GET Get markets list |
-| Cloud API | GET Get trading accounts list, GET Get commands list, GET Get connections list, GET Get available connectors list, GET Get sessions list, GET Get list of active (executing) strategies |
+| Status API | Get ping, Get current server time |
+| Client API | Get api keys, Post create new api key, Get users list, Post logs user into the system |
+| Autofollow API | Get autofollow strategies list |
+| Task Manager API | Get tasks list |
+| Builder API | Get strategy builder rules list |
+| News API | Get news list |
+| Market Data API | Get markets list |
+| Cloud API | Get trading accounts list, Get commands list, Get connections list, Get available connectors list, Get sessions list, Get list of active executing strategies |
 
 ---
 
